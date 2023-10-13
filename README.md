@@ -8,7 +8,7 @@ This tooling is backed by the Go vulnerability database, which is curated by
 the Go security team. Go’s tooling reduces noise in your results by only
 surfacing vulnerabilities in functions that your code is actually calling.
 
-You can install the latest version of govulncheck using
+You can install the latest version of govulncheck using 
 [go install](https://pkg.go.dev/cmd/go#hdr-Compile_and_install_packages_and_dependencies)
 
 ```
