@@ -12,7 +12,7 @@ You can install the latest version of govulncheck using
 [go install](https://pkg.go.dev/cmd/go#hdr-Compile_and_install_packages_and_dependencies)
 
 ```
-go install golang.org/x/vuln/cmd/govulncheck@latest
+go install golang.org/x/vuln/cmd/govulncheck@latest 
 ```
 
 Then, run govulncheck inside your module:
